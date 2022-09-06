@@ -1,0 +1,65 @@
+.main {
+  margin: 0% 5% 0% 5%;
+}
+img {
+  width: 50%;
+  height: auto;
+  float: left;
+}
+.one {
+  display: inline-flex;
+  width: 40%;
+  padding-left: 6%;
+
+  margin-top: 3%;
+  font-size: large;
+  font-weight: bold;
+}
+.box1 {
+  background-color: rgba(242, 242, 242, 255);
+  padding-left: 6%;
+  padding-right: 7%;
+  padding-bottom: 12%;
+}
+.box1 p {
+  color: rgba(120, 160, 154, 255);
+}
+.box2 {
+  background-color: rgba(240, 250, 241, 255);
+  margin-left: 8%;
+  padding-left: 6%;
+  padding-right: 7%;
+  padding-bottom: 12%;
+}
+.box2 p {
+  color: rgba(120, 160, 154, 255);
+}
+.two {
+  display: inline-flex;
+  font-size: large;
+  font-weight: bold;
+
+  width: 40%;
+  padding-left: 6%;
+
+  padding-top: 5%;
+}
+.box3 {
+  background-color: rgba(242, 242, 242, 255);
+  padding-left: 6%;
+  padding-right: 7%;
+  padding-bottom: 12%;
+}
+.box3 p {
+  color: rgba(120, 160, 154, 255);
+}
+.box4 {
+  background-color: rgba(159, 216, 165, 255);
+  margin-left: 8%;
+  padding-left: 6%;
+  padding-right: 7%;
+  padding-bottom: 12%;
+}
+.box4 p {
+  color: rgba(120, 160, 154, 255);
+}
